@@ -5,7 +5,7 @@
 
 ### 🌟 **About Me**
 - 🌱 Diving into **Java**, **Machine Learning**, and **Cloud Computing**.
-- 🌟 **GATE Aspirant**, mastering CS fundamentals one topic at a time.
+- 🌟 **GATE Aspirant**, mastering CS fundamentals and DSA one topic at a time.
 - 🤝 Love collaborating and brainstorming ideas for impactful projects.
 
 ---
@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -31,7 +32,7 @@
 ---
 
 ### 🔬 **Featured Projects**
-#### 🚀 [Project Albert](https://github.com/Sandeep-Vigneshwar/project-albert)
+#### 🚀 [Project Albert-l-s](https://github.com/Sandeep-Vigneshwar/project-albert-l-s)
 - **Model**: ALBERT-large fine-tuned for emotion classification.
 - **Performance**: Achieved state-of-the-art metrics in sentiment analysis.
 - **Applications**: Emotion-aware chatbots, analytics tools.
@@ -76,6 +77,7 @@
 
 ### 🧑‍🎓 **Inspiration**
 _"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." – Patrick McKenzie_
+_"Understand the game to win the game." – Anonymous_
 
 ---
 
